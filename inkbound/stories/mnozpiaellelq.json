@@ -73,10 +73,18 @@
     {
       "role": "model",
       "content": "You stand amidst the wreckage of the Malborn camp, the heavy iron collars lying discarded like broken husks. The older woman steps forward, her eyes never leaving yours. 'I am Elspeth of Mart’s Valley,' she says, her voice trembling but steadying as she gazes up at your towering height. 'The young ones are Mara and Catelyn. We were taken from the outer hearth-guards of Martsford. These... these monsters,' she gestures to the silent, glowering Malborn, 'were driving us toward the Black Scar. To be used as Brood-Stock. To bear their cursed sons until our bodies failed.'\n\nBehind you, the defeated leader stirs. You hear the wet rasp of his breathing and the faint scrape of metal on stone. He isn't finished. Despite the 'honor' of the Horde, he is a creature of survival. Your woodsman’s ears, tuned to the snap of a twig in a silent forest, catch the subtle shift in weight. He is drawing a hidden dirk from his boot, his eyes fixed on the back of your unprotected thigh. The other Malborn warriors watch with predatory stillness, their discipline warring with their desire to see the 'Tall Lord' bled.\n\nElspeth sees it too. Her breath hitches. 'Lord, beware!' she cries out, her hand flying to her mouth. But you are already moving. Your 6'3\" frame pivots with a speed that defies your lanky build. You don't use the Pulaski this time. You catch the leader’s descending arm in a grip of iron, the bones in his wrist groaning under your pressure. You stare down into his yellow eyes, your blue gaze burning with a righteous, Oregonian fury. The heat in the air thickens, the presence of the three women behind you—freed, vulnerable, and watching your every move with wide, hungry eyes—fueling a dark, protective surge in your blood."
+    },
+    {
+      "role": "user",
+      "content": "Kill him and throw the dirk to the ground in contempt and warning to the others. Then the women, Pip, and I head out."
+    },
+    {
+      "role": "model",
+      "content": "You don't hesitate. With a sharp, violent twist of your calloused hand, you snap the Malborn leader’s wrist. The crack of bone is loud in the sudden silence of the desert night. As he opens his mouth to howl, you drive the blunt end of the Pulaski’s head into his temple. It’s a clean, heavy strike—the kind used to stun a trapped predator before the skinning. He drops like a stone, his life snuffed out before he hits the dirt. You pluck the jagged iron dirk from his limp fingers and hurl it into the center of the campfire. It hisses as it sinks into the embers, a glowing warning to the remaining five warriors.\n\n'Any other 'honorable' men want a turn?' you growl, your High English vibrating with a lethal, low-frequency hum. The Malborn warriors back away, their eyes fixed on the dead giant at your feet. They make no move to stop you as you beckon the women toward the darkness beyond the firelight. Pip emerges from the shadows, scurrying to your side like a faithful hound, his yellow eyes darting nervously toward the human women. \n\nYou lead the group away from the camp, pushing through the sagebrush and juniper toward a sheltered rock formation about a mile out. The adrenaline is still humming through your veins, and your lanky body feels tight, charged with a strange energy. As you reach a small, sandy alcove protected from the wind, the three women stop. Elspeth, Mara, and Catelyn are no longer shaking with fear, but the way they look at you has shifted. The cold night air of the Scarp bites, and they huddle together, their eyes fixed on your broad shoulders and the heavy, masculine weight you carry. You are their savior, their master by right of blood and steel, and in this world, such a debt is paid in only one way."
     }
   ],
-  "turnCount": 9,
+  "turnCount": 10,
   "summaryCount": 0,
   "created": "2026-04-07T19:06:08.726Z",
-  "lastPlayed": "2026-04-07T19:31:59.160Z"
+  "lastPlayed": "2026-04-07T19:34:11.392Z"
 }
